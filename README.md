@@ -57,7 +57,8 @@ print(cm)
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7ed7ddbf-b604-427d-a9cd-b9b4894199b8)
+
 
 
 
